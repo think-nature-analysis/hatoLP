@@ -1,0 +1,244 @@
+		
+		<section class="pos-rel pd-tb-medium" id="about" data-rgen-sm="pd-tb-small">
+		
+		<div class="container">
+			<div class="w75 mr-auto align-c typo-light" data-animate-in="fadeIn">
+				<h2 class="title" data-rgen-sm="small">How we work</h2>
+				<p class="title-sub" data-rgen-sm="small">Do it science.</p>
+			</div>
+
+			<div class="row gt20 mb20">
+				<div class="col-md-6" data-animate-in="fadeInUp|0.1">
+
+					<div class="hover-box1 min-px-h350">
+						<div class="full-wh z2 pd-mini flex-bl overlay-wrp" data-rgen-sm="pd-30">
+							<a href="#" class="full-wh z3">&nbsp;</a>
+							<div class="info-obj img-t g20 small z2 pos-rel">
+								<div class="img txt-white"><span class="iconwrp"><i class="fa-solid fa-map-location-dot" style="color: #ffffff;"></i></span></div>
+								<div class="info typo-light">
+									<h3 class="title small bold-n">Data Mobilization</h3>
+									<p class="mr-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus enim sequi pariatur ipsam assumenda unde tempore rem maxime</p>
+								</div>
+							</div><!-- info box -->
+							<div class="full-wh" data-bgcolor="rgba(95, 181, 209, 0.7)"></div>
+						</div>
+						<b class="bg-cc bg-cover full-wh img-wrp" data-bg="images/800x600_11.jpg"></b>
+					</div><!-- / hover box -->
+				</div><!-- // END : column //  -->
+				
+				<div class="col-md-6" data-animate-in="fadeInUp|0.2">
+					<div class="hover-box1 min-px-h350">
+						<div class="full-wh z2 pd-mini flex-bl overlay-wrp" data-rgen-sm="pd-30">
+							<a href="#" class="full-wh z3">&nbsp;</a>
+							<div class="info-obj img-t g20 small z2 pos-rel">
+								<div class="img txt-white"><span class="iconwrp"><i class="fa-solid fa-computer" style="color: #ffffff;"></i></span></div>
+								<div class="info typo-light">
+									<h3 class="title small bold-n">Machine Learning & AI</h3>
+									<p class="mr-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus enim sequi pariatur ipsam assumenda unde tempore rem maxime</p>
+								</div>
+							</div><!-- info box -->
+							<div class="full-wh" data-bgcolor="rgba(95, 181, 209, 0.5)"></div>
+						</div>
+						<b class="bg-cc bg-cover full-wh img-wrp" data-bg="images/800x600_12.jpg"></b>
+					</div><!-- / hover box -->
+				</div><!-- // END : column //  -->
+
+				<div class="col-md-6" data-animate-in="fadeInUp|0.1">
+					<div class="hover-box1 min-px-h350">
+						<div class="full-wh z2 pd-mini flex-bl overlay-wrp" data-rgen-sm="pd-30">
+							<a href="#" class="full-wh z3">&nbsp;</a>
+							<div class="info-obj img-t g20 small z2 pos-rel">
+								<div class="img txt-white"><span class="iconwrp"><i class="fa-solid fa-globe" style="color: #ffffff;"></i></span></div>
+								<div class="info typo-light">
+									<h3 class="title small bold-n">Mapping Biodiversity Features</h3>
+									<p class="mr-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus enim sequi pariatur ipsam assumenda unde tempore rem maxime</p>
+								</div>
+							</div><!-- info box -->
+							<div class="full-wh" data-bgcolor="rgba(95, 181, 209, 0.5)"></div>
+						</div>
+						<b class="bg-cc bg-cover full-wh img-wrp" data-bg="images/800x600_13.jpg"></b>
+					</div><!-- / hover box -->
+				</div><!-- // END : column //  -->
+
+				<div class="col-md-6" data-animate-in="fadeInUp|0.2">
+					<div class="hover-box1 min-px-h350">
+						<div class="full-wh z2 pd-mini flex-bl overlay-wrp" data-rgen-sm="pd-30">
+							<a href="#" class="full-wh z3">&nbsp;</a>
+							<div class="info-obj img-t g20 small z2 pos-rel">
+								<div class="img txt-white"><span class="iconwrp"><i class="fa-solid fa-layer-group" style="color: #ffffff;"></i></span></div>
+								<div class="info typo-light">
+									<h3 class="title small bold-n">Overlayering Nature-Risk Commodity</h3>
+									<p class="mr-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus enim sequi pariatur ipsam assumenda unde tempore rem maxime</p>
+								</div>
+							</div><!-- info box -->
+							<div class="full-wh" data-bgcolor="rgba(95, 181, 209, 0.5)"></div>
+						</div>
+						<b class="bg-cc bg-cover full-wh img-wrp" data-bg="images/800x600_14.jpg"></b>
+					</div><!-- / hover box -->
+				</div><!-- // END : column //  -->
+
+				<div class="col-md-6" data-animate-in="fadeInUp|0.1">
+					<div class="hover-box1 min-px-h350">
+						<div class="full-wh z2 pd-mini flex-bl overlay-wrp" data-rgen-sm="pd-30">
+							<a href="#" class="full-wh z3">&nbsp;</a>
+							<div class="info-obj img-t g20 small z2 pos-rel">
+								<div class="img txt-white"><span class="iconwrp"><i class="fa-solid fa-chart-line" style="color: #ffffff;"></i></span></div>
+								<div class="info typo-light">
+									<h3 class="title small bold-n">Scenario Analyses</h3>
+									<p class="mr-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus enim sequi pariatur ipsam assumenda unde tempore rem maxime</p>
+								</div>
+							</div><!-- info box -->
+							<div class="full-wh" data-bgcolor="rgba(95, 181, 209, 0.5)"></div>
+						</div>
+						<b class="bg-cc bg-cover full-wh img-wrp" data-bg="images/800x600_13.jpg"></b>
+					</div><!-- / hover box -->
+				</div><!-- // END : column //  -->
+
+				<div class="col-md-6" data-animate-in="fadeInUp|0.2">
+					<div class="hover-box1 min-px-h350">
+						<div class="full-wh z2 pd-mini flex-bl overlay-wrp" data-rgen-sm="pd-30">
+							<a href="#" class="full-wh z3">&nbsp;</a>
+							<div class="info-obj img-t g20 small z2 pos-rel">
+								<div class="img txt-white"><span class="iconwrp"><i class="fa-solid fa-cubes" style="color: #ffffff;"></i></span></div>
+								<div class="info typo-light">
+									<h3 class="title small bold-n">Promoting Nature Positive Actions</h3>
+									<p class="mr-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus enim sequi pariatur ipsam assumenda unde tempore rem maxime</p>
+								</div>
+							</div><!-- info box -->
+							<div class="full-wh" data-bgcolor="rgba(95, 181, 209, 0.5)"></div>
+						</div>
+						<b class="bg-cc bg-cover full-wh img-wrp" data-bg="images/800x600_14.jpg"></b>
+					</div><!-- / hover box -->
+				</div><!-- // END : column //  -->
+
+			</div><!-- // END : row //  -->
+			
+			
+
+		</div><!-- // END : Container //  -->
+				<div class="bg-holder full-wh z2">
+			<!-- Overlay -->
+			<b data-bgholder="overlay" class="full-wh z3" data-bgcolor="rgba(95, 181, 209, 0.8)"></b>
+			<!-- Parallax image -->
+			<div data-bgholder="parallax" class="full-wh z2" data-parallax-img="myimages/bgB.png"></div>
+			<!-- Background image -->
+			<b data-bgholder="bg-img" data-bg="myimages/bgB.png" class="full-wh bg-cover bg-cc z1"></b>
+		</div>
+		<!--
+=================================
+= Background holder
+=================================
+-->
+<div class="bg-holder full-wh z0">
+	<!-- Overlay -->
+	<b data-bgholder="overlay" class="full-wh z5" data-bgcolor="rgba(95, 181, 209, 0)"></b>
+	<!-- Parallax image -->
+	<div data-bgholder="parallax" class="full-wh z2"></div>
+	<!-- Background image -->
+	<b data-bgholder="bg-img" class="full-wh bg-cover bg-cc z1"></b>
+</div>
+	</section>
+	<!-- ************** END : Content section **************  -->
+
+
+
+
+
+	<!--
+	************************************************************
+	* Content section
+	************************************************************ -->
+	<section class="pos-rel pd-tb-large" id="casestudies" data-rgen-sm="pd-tb-small">
+		<div class="container">
+			<div class="row gt0">
+				<div class="col-md-6" data-animate-in="fadeInUp">
+					<img src="myimages/rubber.png" alt="image">
+				</div><!-- // END : column //  -->
+				<div class="col-md-6 flex-cc" data-animate-in="fadeInUp">
+					<div class="w75 pd-tb-20 mr-auto align-l">
+						<h6 class="title tiny op-05 bold-n txt-upper">Showcases</h6>
+						<h2 class="title small">Indonesia Natural rubber forests</h2>
+						<p class="mr-b-40">Nature impact of rubber plantations in Indonesia was quantitatively evaluated using global-scale species distribution models and satellite imagery.</p>
+						<a href="https://think-nature.jp/en" target="_blank" class="btn btn-dark">More details</a>
+					</div>
+				</div><!-- // END : column //  -->
+
+				<div class="col-md-6 order-md-last" data-animate-in="fadeInUp|0.1">
+					<img src="myimages/innterm.png" alt="image">
+				</div><!-- // END : column //  -->
+				<div class="col-md-6 flex-cc" data-animate-in="fadeInUp|0.1">
+					<div class="w75 pd-tb-20 mr-auto align-l">
+						<h6 class="title tiny op-05 bold-n txt-upper">Showcases</h6>
+						<h2 class="title small">Inner Mongolia cashmere production impact assessment</h2>
+						<p class="mr-b-40">How cashmere production in Innter Mongolia affect local flora and fauna was quantifed using species distribution records and satellite imagery.</p>
+
+					</div>
+				</div><!-- // END : column //  -->
+			</div><!-- // END : row //  -->
+
+			<div class="row gt0">
+				<div class="col-md-6" data-animate-in="fadeInUp">
+					<img src="myimages/nickel.png" alt="image">
+				</div><!-- // END : column //  -->
+				<div class="col-md-6 flex-cc" data-animate-in="fadeInUp">
+					<div class="w75 pd-tb-20 mr-auto align-l">
+						<h6 class="title tiny op-05 bold-n txt-upper">Showcases</h6>
+						<h2 class="title small">Nickel mine development impact assessment</h2>
+						<p class="mr-b-40">Detection of Nickel mining from remote sensing and its impact on tropical biodiversity has been evaluated.</p>
+					</div>
+				</div><!-- // END : column //  -->
+
+				<div class="col-md-6 order-md-last" data-animate-in="fadeInUp|0.1">
+					<img src="myimages/ship2.png" alt="image">
+				</div><!-- // END : column //  -->
+				<div class="col-md-6 flex-cc" data-animate-in="fadeInUp|0.1">
+					<div class="w75 pd-tb-20 mr-auto align-l">
+						<h6 class="title tiny op-05 bold-n txt-upper">Showcases</h6>
+						<h2 class="title small">Global shipping impact assessment</h2>
+						<p class="mr-b-40">Our unparalleled marine biodiversity datasets was employed in marine shipping impact asssment worldwide.</p>
+					</div>
+				</div><!-- // END : column //  -->
+			</div><!-- // END : row //  -->
+			<div class="row gt0">
+				<div class="col-md-6" data-animate-in="fadeInUp">
+					<img src="myimages/amami.png" alt="image">
+				</div><!-- // END : column //  -->
+				<div class="col-md-6 flex-cc" data-animate-in="fadeInUp">
+					<div class="w75 pd-tb-20 mr-auto align-l">
+						<h6 class="title tiny op-05 bold-n txt-upper">Showcases</h6>
+						<h2 class="title small">Amami Okinawa World Natural Heritage forest management assessment</h2>
+						<p class="mr-b-40">Suitable sites for wind power plants in terms of both production efficiency and avoidance of highly important habitats for climate-nature nexus.</p>
+					</div>
+				</div><!-- // END : column //  -->
+
+				<div class="col-md-6 order-md-last" data-animate-in="fadeInUp|0.1">
+					<img src="myimages/wind.png" alt="image">
+				</div><!-- // END : column //  -->
+				<div class="col-md-6 flex-cc" data-animate-in="fadeInUp|0.1">
+					<div class="w75 pd-tb-20 mr-auto align-l">
+						<h6 class="title tiny op-05 bold-n txt-upper">Showcases</h6>
+						<h2 class="title small">Assessment of suitable sites for wind power generation in the seas around Japan</h2>
+						<p class="mr-b-40">Our unparalleled marine biodiversity datasets was employed in marine shipping impact asssment worldwide.</p>
+					</div>
+				</div><!-- // END : column //  -->
+			</div><!-- // END : row //  -->
+		</div>
+		<!--
+=================================
+= Background holder
+=================================
+-->
+<div class="bg-holder full-wh z0">
+	<!-- Overlay -->
+	<b data-bgholder="overlay" class="full-wh z5" data-bgcolor="rgba(95, 181, 209, 0)"></b>
+	<!-- Parallax image -->
+	<div data-bgholder="parallax" class="full-wh z2"></div>
+	<!-- Background image -->
+	<b data-bgholder="bg-img" class="full-wh bg-cover bg-cc z1"></b>
+</div>
+	</section>
+	<!-- ************** END : Content section **************  -->
+	<b id="contact"></b>
+	<!-- inject---:../html-blocks/map-01.html -->
+	<!-- endinject-- -->
+	
